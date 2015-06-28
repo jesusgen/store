@@ -1,0 +1,1 @@
+﻿<?php	Interface IConnect	{	  CONST DSN = 'mysql:host=localhost;dbname=design_pattern;port=3306';  	  CONST USN = "root";	  CONST PW = "";	  public static function doConnect();  	}?>
